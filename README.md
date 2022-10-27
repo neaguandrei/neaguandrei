@@ -1,8 +1,4 @@
-👉 I am a Java Software Developer with 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. I use my expertise, skills, and passion to design and implement clients' needs with regards to their software solutions.
-
-About my skills:
-
-✅ BACKEND
+BACKEND
 ● Java 8 / 11, Spring Boot, Spring Cloud, Spring Security, Spring Data, Hibernate / JPA
 ● REST
 ● Spring WebFlux, Reactor
@@ -15,7 +11,7 @@ About my skills:
 ● Jenkins, Bamboo, GitHub Actions, Harness, GitLab CI
 ● Git, Gradle, Maven
 
-✅ SOFTWARE ARCHITECTURE
+SOFTWARE ARCHITECTURE
 ● Microservices Architecture
 ● Event-driven architecture
 ● Multitier Architecture
@@ -23,7 +19,7 @@ About my skills:
 ● SOLID Principles, Clean Code, KISS, YAGNI and other Java coding best practices
 
 
-✅ FRONTEND and MOBILE (basic knowledge)
+FRONTEND and MOBILE (basic knowledge)
 ● Android SDK
 ● JavaScript, TypeScript
 ● React, Angular

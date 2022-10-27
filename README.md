@@ -30,5 +30,5 @@ FRONTEND and MOBILE (basic knowledge)
 ⚡️ Do you want to see how my expertise can help your business? Let's discuss!
 
 📞 Phone: +40 723 111 997
-📩 Email: andreineagu.dev@gmail.com
+📩 Email: andreineagu.c@gmail.com
 💻 Website: www.andreineagu.dev
